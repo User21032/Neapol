@@ -64,3 +64,8 @@ a {
   color: #ffffff;
   text-align: center;
 }
+.nav__about{
+  color: crimson;
+  font-size: 30px;
+  text-align: center;
+}
